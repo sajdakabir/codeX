@@ -7,7 +7,9 @@ In another way, it's your small version of chatGPT.
 
 ### Tech Stack
 Server: Node JS, Express JS
+
 API: openAI API
+
 Front-end: HTML ,CSS ,Javascript
 
 ### Setup
