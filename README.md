@@ -1,4 +1,4 @@
-## codeX
+## CodeX
 
 CodeX is your new coding and study partnet. You asked any coding and study-related questions.
 
@@ -19,11 +19,11 @@ To run  locally, make sure to create a .env file and copy variables from example
 ##### Clone the project
 
 ```
-  git clone <repo url>
+  $ git clone <repo url>
  ```
 ##### Go to the project directory
 ```
-  cd codeX
+  $ cd codeX
 ```
 #### Running backend
 ```
@@ -36,9 +36,9 @@ $ npm run server
 
 #### Running Front-end
 ```
-#install dependencies
-$ npm instal
+    #install dependencies
+    $ npm instal
 
-#Start the front-end
-$ npm run dev
+    #Start the front-end
+    $ npm run dev
 ```
