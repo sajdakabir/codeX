@@ -33,17 +33,17 @@ To run  locally, make sure to create a .env file and copy variables from example
     $ npm install
 
     #Start the server
-    $ npm run server
+    $ npm run server  //Server will run on http://localhost:5000
 
 ```
 
-#### Running Front-end
+#### Running client
 ```
     $ cd client/
     
     #install dependencies
     $ npm instal
 
-    #Start the front-end
-    $ npm run dev
+    #Start the client
+    $ npm run dev  // Client will run on http://localhost:5173/
 ```
