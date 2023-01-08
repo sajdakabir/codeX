@@ -47,3 +47,12 @@ To run  locally, make sure to create a .env file and copy variables from example
     #Start the client
     $ npm run dev  // Client will run on http://localhost:5173/
 ```
+
+### Here is some view
+
+
+![](https://github.com/sajdakabir/codeX/blob/master/image/example1.jpeg)
+
+![](https://github.com/sajdakabir/codeX/blob/master/image/example2.jpeg)
+
+![](https://github.com/sajdakabir/codeX/blob/master/image/example3.jpeg)
