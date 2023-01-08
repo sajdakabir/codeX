@@ -25,15 +25,20 @@ To run  locally, make sure to create a .env file and copy variables from example
 ```
 #### Running backend
 ```
-#install dependencies
-$ npm instal
+    $ cd server/ 
+    
+    #install dependencies
+    $ npm install
 
-#Start the server
-$ npm run server
+    #Start the server
+    $ npm run server
+
 ```
 
 #### Running Front-end
 ```
+    $ cd client/
+    
     #install dependencies
     $ npm instal
 
