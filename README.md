@@ -42,7 +42,7 @@ To run  locally, make sure to create a .env file and copy variables from example
     $ cd client/
     
     #install dependencies
-    $ npm instal
+    $ npm install
 
     #Start the client
     $ npm run dev  // Client will run on http://localhost:5173/
@@ -56,3 +56,8 @@ To run  locally, make sure to create a .env file and copy variables from example
 ![](https://github.com/sajdakabir/codeX/blob/master/image/example2.jpeg)
 
 ![](https://github.com/sajdakabir/codeX/blob/master/image/example3.jpeg)
+
+
+Thanks,
+
+sajda
