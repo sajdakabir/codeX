@@ -59,4 +59,5 @@ To run  locally, make sure to create a .env file and copy variables from example
 
 
 Thanks,
+
 sajda
